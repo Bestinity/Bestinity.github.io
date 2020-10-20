@@ -608,10 +608,10 @@
 	* 클릭한 곳으로 오브젝트를 이동시키기 (단, 이동할 수 있는 지형에만 이동 하게 하기.(ex_지상유닛은 타일의 정보를 받아서 지상일때만 이동 가능하게 하기)
 	
 ## c. 키보드에 대한 흐름도
-<img src="./img/참고자료_나라선택.png" width = 500>
-<img src="./img/참고자료_나라선택.png" width = 500>
+<img src="./img/키보드이벤트_1.png" width = 500>
+<img src="./img/키보드이벤트_2.png" width = 500>
 
 # 스토리보드
 # 개발작업 일정
-<img src="./img/참고자료_나라선택.png" width = 500>
+<img src="./img/.png" width = 500>
 	
